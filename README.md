@@ -1,4 +1,4 @@
-## _ 𝙸𝚝'𝚜 𝚖𝚎 .. 𝙾𝚖𝚊𝚛
+<h1 align="center">It's me .. Omar</h1>
   
 
 <a href="https://github.com/M1ghtyMushroom" target="_blank">
@@ -29,7 +29,7 @@ I am a skilled and motivated backend developer with a diverse technical backgrou
 <br/>  
 
 
-## _ 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚙𝚛𝚘𝚏𝚒𝚌𝚒𝚎𝚗𝚌𝚢
+<h1 align="center">Technical proficiency</h1>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -50,8 +50,8 @@ I am a skilled and motivated backend developer with a diverse technical backgrou
 <br/>  
 
 
-## _ 𝚂𝚝𝚞𝚏𝚏
-<table><tr><td valign="top" width="50%">
+<h1 align="center">Stuff</h1>
+<table align="center"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=M1ghtyMushroom&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
