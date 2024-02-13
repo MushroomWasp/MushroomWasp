@@ -48,39 +48,35 @@ I am a skilled and motivated backend developer with a diverse technical backgrou
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
 
 <br/>  
-
 
 <h1 align="center">Stuff</h1>
-<table align="center"><tr><td valign="top" width="50%">
+<table align="center">
+  <tr>
+    <td width="500px">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1ghtymushroom&" alt="m1ghtymushroom" />
+    </td>
+    <td width="500px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1ghtyMushroom&hide_border=true&layout=compact" align="center" style="width: 100%" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=M1ghtyMushroom&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1ghtyMushroom&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
+<a href="https://www.buymeacoffee.com/omarmhasan">
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omarmhasan" />
+</a>
+Wanna help but broke like me?<br>
+share this 👉 <a href="https://omarmhasan.bio.link/">that</a>
 
 <br/>  
-
-
-<br />
+<br/>  
+<br/>  
+<br/>  
+<br/>
 
 ----
 
