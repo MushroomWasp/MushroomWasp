@@ -70,7 +70,7 @@ I am a skilled and motivated backend developer with a diverse technical backgrou
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omarmhasan" />
 </a>
 Wanna help but broke like me?<br>
-share this 👉 <a href="https://omarmhasan.bio.link/">that</a>
+share this 👉 <a href="https://omarmhasan.bio.link/" target="_blank">that</a>
 
 <br/>  
 <br/>  
