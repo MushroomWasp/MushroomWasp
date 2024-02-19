@@ -26,6 +26,11 @@ I am a skilled and motivated backend developer with a diverse technical backgrou
 
 </td></tr></table>  
 
+<h2>Projects I've Worken On</h2>
+⚡ <a href="https://physics-origin.vercel.app">Physics-Origin</a><br/>
+🇫🇷 <a href="https://elresala-platform.vercel.app">ElResala-Platform</a><br/>
+📚😆 <a href="https://fcislol.vercel.app">FcisLOL</a>
+
 <br/>  
 
 
