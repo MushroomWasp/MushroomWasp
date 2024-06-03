@@ -34,7 +34,7 @@ I am a pretty good designer too :)
 
 
 <br/>
-Check them all on my Team's officiall website <a href="https://ioteam.dev">IOTeam.dev</a>
+Check them all on my Team's officiall website <a href="https://ioteam.dev">IOTeam.dev</a> or on our GitHub repo (some are open source) <a href="https://github.com/IOTeamDev">IOTeamDev</a>
 
 
 # Technical proficiencies
