@@ -1,10 +1,10 @@
 <h1 align="center">It's me .. Omar</h1>
 <a href="https://0mr.me">0mr.me<a>
 
-<a href="https://github.com/M1ghtyMushroom" target="_blank">
+<a href="https://github.com/daMushrm" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/M1ghtyMushroom" target="_blank">
+<a href="https://twitter.com/daMushrm" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/omarmhasan" target="_blank">
@@ -18,26 +18,26 @@
 
 
 # 👋 Greetings, Glad to see you here!  
-A seasoned practitioner in the realm of full-stack development, deeply committed to the art of constructing robust and scalable web architectures with precision and finesse. <br/>
+Full-stack developer, Bug Hunter, CTF Player <br/>
 I am a pretty good designer too :)
-  
-
 <br/>  
 
   
 
-# Projects I've Worken On
+# Projects I've Worken On (Web Dev)
 ## web
 ⚡ <a href="https://physics-origin.vercel.app">Physics-Origin</a><br/>
 🇫🇷 <a href="https://elresala-platform.vercel.app">ElResala-Platform</a><br/>
 📚😆 <a href="https://fcislol.vercel.app">FcisLOL</a><br/>
-📏📐 <a href="https://rowaished.vercel.app">Rowaished</a>
-## Linux Tools
-👀 <a href="https://github.com/M1ghtyMushroom/iris">Iris</a> Screen Management Shell Script<br/>
+Check them all on my Team's officiall website <a href="https://ioteam.dev">IOTeam.dev</a> or on our GitHub repo (some are open source)
+## Linux
+👀 <a href="https://github.com/daMushrm/iris">Iris</a> Screen Management Shell Script<br/>
+<a href="https://github.com/daMushrm/dotfiles">dotfiles</a><br/>
+
 
 
 <br/>
-Check them all on my Team's officiall website <a href="https://ioteam.dev">IOTeam.dev</a> or on our GitHub repo (some are open source) <a href="https://github.com/IOTeamDev">IOTeamDev</a>
+
 
 
 # Technical proficiencies
@@ -58,10 +58,10 @@ Check them all on my Team's officiall website <a href="https://ioteam.dev">IOTea
 <table align="center">
   <tr>
     <td width="500px">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1ghtymushroom&" alt="m1ghtymushroom" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daMushrm&" alt="daMushrm" />
     </td>
     <td width="500px">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1ghtyMushroom&hide_border=true&layout=compact" align="center" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daMushrm&hide_border=true&layout=compact" align="center" style="width: 100%" />
     </td>
   </tr>
 </table>
