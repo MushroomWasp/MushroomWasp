@@ -1,4 +1,6 @@
 <h1 align="center">It's me .. Omar</h1>
+<h5 align="center">outdated readme, too lazy to rewrite</h5>
+
 <a href="https://0mr.me">0mr.me<a>
 
 <a href="https://github.com/daMushrm" target="_blank">
