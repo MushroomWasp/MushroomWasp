@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, It's Omar 👋</h1>
 <h5 align="center">kinda outdayed readme, too lazy to rewrite</h5>
+<h1 align="center">Hey there, It's Omar 👋</h1>
 
 <p align="center">
   <a href="https://0mr.me">0mr.me</a>
