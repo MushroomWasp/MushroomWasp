@@ -1,4 +1,4 @@
-<h5 align="center">kinda outdayed readme, too lazy to rewrite</h5>
+<h5 align="center">kinda outdated & unorganized readme, too lazy to rewrite</h5>
 <h1 align="center">Hey there, It's Omar 👋</h1>
 
 <p align="center">
