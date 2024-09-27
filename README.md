@@ -1,88 +1,104 @@
-<h1 align="center">It's me .. Omar</h1>
-<h5 align="center">outdated readme, too lazy to rewrite</h5>
+<h1 align="center">Hey there, It's Omar 👋</h1>
+<h5 align="center">kinda outdayed readme, too lazy to rewrite</h5>
 
-<a href="https://0mr.me">0mr.me<a>
+<p align="center">
+  <a href="https://0mr.me">0mr.me</a>
+</p>
 
-<a href="https://github.com/daMushrm" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/daMushrm" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/omarmhasan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/omarandhisart" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+<p align="center">
+  <a href="https://github.com/daMushrm" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/daMushrm" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/omarmhasan" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/omarandhisart" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
+---
 
+# About Me
 
-# 👋 Greetings, Glad to see you here!  
-Full-stack developer, Bug Hunter, CTF Player <br/>
-I am a pretty good designer too :)
-<br/>  
+I'm a **Full-Stack Developer**, **Bug Hunter**, and **CTF Player**. Whether it's hunting down vulnerabilities or building scalable web apps, I'm always up for a challenge. I also like **designing**—because why not add some flair to the mix?
 
-  
+# Security Projects & Bug Hunting 🛡️
 
-# Projects I've Worken On (Web Dev)
-## web
-⚡ <a href="https://physics-origin.vercel.app">Physics-Origin</a><br/>
-🇫🇷 <a href="https://elresala-platform.vercel.app">ElResala-Platform</a><br/>
-📚😆 <a href="https://fcislol.vercel.app">FcisLOL</a><br/>
-Check them all on my Team's officiall website <a href="https://ioteam.dev">IOTeam.dev</a> or on our GitHub repo (some are open source)
-## Linux
-👀 <a href="https://github.com/daMushrm/iris">Iris</a> Screen Management Shell Script<br/>
-<a href="https://github.com/daMushrm/dotfiles">dotfiles</a><br/>
+I'm passionate about cybersecurity and have spent a significant amount of time hunting for vulnerabilities across different platforms. As a bug hunter, I focus on identifying high-impact security flaws in real-world applications and networks. Some key areas of expertise include:
 
+- 🕵️‍♂️ Web application security and vulnerability discovery.
+- 🛠️ Exploiting misconfigurations and improper access controls.
+- 🔍 Network security and lateral movement techniques.
+- 📄 Writing detailed reports and write-ups on CTF challenges and bug bounty findings.
 
+Whether it's through CTFs, bug bounties, or security research, I continually refine my skills to stay ahead of emerging threats.
 
-<br/>
+# Web Development Projects 🌐
 
+Along with my security work, I love building and deploying websites and applications. Here are a few notable projects:
 
+## Web Projects
+- ⚡ [Physics-Origin](https://physics-origin.vercel.app)
+- 🇫🇷 [ElResala-Platform](https://elresala-platform.vercel.app)
+- 📚😆 [FcisLOL](https://fcislol.vercel.app)
 
-# Technical proficiencies
-## BackEnd
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,mongo,postgres,prisma,python,linux,php,laravel">
+Explore more on my team's official site: [IOTeam.dev](https://ioteam.dev) or our [GitHub Repo](https://github.com/IOTeamOfficial).
 
-## FrontEnd
+## Linux & Shell Projects
+- 👀 [Iris](https://github.com/daMushrm/iris) - Screen Management Shell Script
+- 📂 [dotfiles](https://github.com/daMushrm/dotfiles) - My Linux environment setup
+
+---
+
+# Tech Stack & Tools 🛠️
+
+## Backend
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,mongo,postgres,prisma,python,linux,php,laravel" />
+
+## Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
 
-## Tools I use
-<img src="https://skillicons.dev/icons?i=linux,git,docker,npm"/>
+## Tools I Use
+<img src="https://skillicons.dev/icons?i=linux,git,docker,npm" />
 
+---
 
+# Let's Collaborate 🤝
 
-<br/>  
+I'm always looking for new challenges—whether it's security research, CTFs, or developing innovative web solutions. Reach out via any of my social links!
 
-<h1 align="center">Stuff</h1>
+---
+
+<h1 align="center">Stats & Fun Stuff 📊</h1>
+
 <table align="center">
   <tr>
     <td width="500px">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daMushrm&" alt="daMushrm" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daMushrm&theme=dark" alt="GitHub Streak" />
     </td>
     <td width="500px">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daMushrm&hide_border=true&layout=compact" align="center" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daMushrm&hide_border=true&layout=compact&theme=dark" align="center" />
     </td>
   </tr>
 </table>
 
-<a href="https://www.buymeacoffee.com/omarmhasan">
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omarmhasan" />
-</a>
-Wanna help but broke like me?<br>
-share this 👉 <a href="https://omarmhasan.bio.link/" target="_blank">that</a>
-
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>
-
-----
-
+---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFrYTdqc3cwemR3Y293eW4yc2o4aXVyazdpdzFnNmFxZnZ6aTl1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bSEkPdQfsSHCMYn7fD/giphy.gif">
+  <a href="https://www.buymeacoffee.com/omarmhasan">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
+</p>
+<p align="center">
+  If you'd like to support my work, buy me a coffee or share this 👉 <a href="https://omarmhasan.bio.link/" target="_blank">My Bio</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFrYTdqc3cwemR3Y293eW4yc2o4aXVyazdpdzFnNmFxZnZ6aTl1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bSEkPdQfsSHCMYn7fD/giphy.gif" alt="fun gif">
 </p>
