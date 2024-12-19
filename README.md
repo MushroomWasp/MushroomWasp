@@ -1,42 +1,28 @@
-<h5 align="center">kinda outdated & unorganized readme, too lazy to rewrite</h5>
-<h1 align="center">Hey there, It's Omar 👋</h1>
+<h1 align="center">What's up! How is it going today?</h1>
 
 <p align="center">
-  <a href="https://0mr.me">0mr.me</a>
+  My Blog > <a href="https://h4ck.run">h4ck.run</a> (cool domain.. huh?)
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/daMushrm" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/daMushrm" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?logo=x&style=for-the-badge" alt="Follow me on X">
   </a>
-
+  <a href="https://www.linkedin.com/in/omarmhasan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn">
+  </a>
 </p>
+
 
 ---
 
-# About Me
+# who is this person?
 
-I'm a **Full-Stack Developer**, **Bug Hunter**, and **CTF Player**. Whether it's hunting down vulnerabilities or building scalable web apps, I'm always up for a challenge. I also like **designing**—because why not add some flair to the mix?
-
-# Security Projects & Bug Hunting 🛡️
-
-I'm passionate about cybersecurity and have spent a significant amount of time hunting for vulnerabilities across different platforms. As a bug hunter, I focus on identifying high-impact security flaws in real-world applications and networks. Some key areas of expertise include:
-
-- 🕵️‍♂️ Web application security and vulnerability discovery.
-- 🛠️ Exploiting misconfigurations and improper access controls.
-- 🔍 Network security and lateral movement techniques.
-- 📄 Writing detailed reports and write-ups on CTF challenges and bug bounty findings.
-
-Whether it's through CTFs, bug bounties, or security research, I continually refine my skills to stay ahead of emerging threats.
-
-# Web Development Projects 🌐
-
-Along with my security work, I love building and deploying websites and applications. Here are a few notable projects:
+A security researcher and CTF player, mainly focused on web stuff right now. Used to work as a backend dev before diving into security. Also, a big Linux fan!
 
 ## Web Projects
 - ⚡ [Physics-Origin](https://physics-origin.vercel.app)
 - 🇫🇷 [ElResala-Platform](https://elresala-platform.vercel.app)
-- 📚😆 [FcisLOL](https://fcislol.vercel.app)
 
 Explore more on my team's official site: [IOTeam.dev](https://ioteam.dev) or our [GitHub Repo](https://github.com/IOTeamOfficial).
 
@@ -49,19 +35,13 @@ Explore more on my team's official site: [IOTeam.dev](https://ioteam.dev) or our
 # Tech Stack & Tools 🛠️
 
 ## Backend
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,mongo,postgres,prisma,python,linux,php,laravel" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,mongo,postgres,prisma,python,linux,php" />
 
 ## Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
 
 ## Tools I Use
 <img src="https://skillicons.dev/icons?i=linux,git,docker,npm" />
-
----
-
-# Let's Collaborate 🤝
-
-I'm always looking for new challenges—whether it's security research, CTFs, or developing innovative web solutions. Reach out via any of my social links!
 
 ---
 
@@ -86,7 +66,7 @@ I'm always looking for new challenges—whether it's security research, CTFs, or
   </a>
 </p>
 <p align="center">
-  If you'd like to support my work, buy me a coffee or share this 👉 <a href="https://omarmhasan.bio.link/" target="_blank">My Bio</a>
+  If you'd like to support my work, buy me a coffee or share this 👉 <a href="https://h4ck.run/" target="_blank">Ma Blog</a>
 </p>
 
 ---
