@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/daMushrm" target="_blank">
+  <a href="https://x.com/MushroomWasp" target="_blank">
     <img src="https://img.shields.io/badge/X-black?logo=x&style=for-the-badge" alt="Follow me on X">
   </a>
   <a href="https://www.linkedin.com/in/omarmhasan" target="_blank">
@@ -27,8 +27,8 @@ A security researcher and CTF player, mainly focused on web stuff right now. Use
 Explore more on my team's official site: [IOTeam.dev](https://ioteam.dev) or our [GitHub Repo](https://github.com/IOTeamOfficial).
 
 ## Linux & Shell Projects
-- 👀 [Iris](https://github.com/daMushrm/iris) - Screen Management Shell Script
-- 📂 [dotfiles](https://github.com/daMushrm/dotfiles) - My Linux environment setup
+- 👀 [Iris](https://github.com/MushroomWasp/iris) - Screen Management Shell Script
+- 📂 [dotfiles](https://github.com/MushroomWasp/dotfiles) - My Linux environment setup
 
 ---
 
@@ -50,10 +50,10 @@ Explore more on my team's official site: [IOTeam.dev](https://ioteam.dev) or our
 <table align="center">
   <tr>
     <td width="500px">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daMushrm&theme=dark" alt="GitHub Streak" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MushroomWasp&theme=dark" alt="GitHub Streak" />
     </td>
     <td width="500px">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daMushrm&hide_border=true&layout=compact&theme=dark" align="center" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MushroomWasp&hide_border=true&layout=compact&theme=dark" align="center" />
     </td>
   </tr>
 </table>
