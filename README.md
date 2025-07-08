@@ -2,6 +2,7 @@
 
 <p align="center">
   My Blog > <a href="https://h4ck.run">h4ck.run</a> (cool domain.. huh?)
+  Another cooler one is <a href="https://Mushroom.Cat">Mushroom.Cat</a>
 </p>
 
 <p align="center">
