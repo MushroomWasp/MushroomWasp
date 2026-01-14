@@ -25,7 +25,7 @@
 </p>
 
 <div align="center">
-  <a href="https://Mushroom.Cat/CVEs">
+  <a href="https://Mushroom.Cat/cves">
     <img src="https://img.shields.io/badge/CVEs-Disclosed%20Security%20Research-181717?style=for-the-badge&logo=github&logoColor=white" alt="CVEs Disclosed">
   </a>
 </div>
