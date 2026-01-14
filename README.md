@@ -1,36 +1,65 @@
-<h1 align="center">What's up! How is it going today?</h1>
+<h2 align="center">
+  <div align="center">
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  </div>
+    こんにちは!
+  <div align="center">
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
+  </div>
+  </h2>
 
 <p align="center">
-  My Blog > <a href="https://h4ck.run">h4ck.run</a> (cool domain.. huh?)
-  </p>
-<p align="center">
-  Another cooler one is <a href="https://Mushroom.Cat">Mushroom.Cat</a>
+  <img src="https://mushroom.cat/Mario-Mushroom.png" height="16" alt="Mushroom Icon"> 
+  Ma Blog > <a href="https://Mushroom.Cat"> Mushroom.Cat</a> 
+  <i>(cool domain.. huh?)</i>
 </p>
 
+<div align="center">
+  <a href="https://Mushroom.Cat/CVEs">
+    <img src="https://img.shields.io/badge/CVEs-Disclosed%20Security%20Research-181717?style=for-the-badge&logo=github&logoColor=white" alt="CVEs Disclosed">
+  </a>
+</div>
+
+<h2 align="center"> who is this person?</h2>
+
 <p align="center">
-  <a href="https://x.com/MushroomWasp" target="_blank">
-   X - Twitter
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/omarmhasan" target="_blank">
-    LinkedIn
-  </a>
+  <code>security Researcher & CTF player</code><br><br>
+  mainly focused on web stuff right now<br>
+  used to work as a fullstack dev before diving into security<br>
+  <i>a big Linux nerd</i>
 </p>
 
+<h2 align="center"> Dox me</h2>
 
----
+<div align="center">
+  <a href="https://twitter.com/MushroomWasp">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter Profile" alt="Twitter">
+  </a>
+  <a href="https://discord.com/users/540226540609208331">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord Profile" alt="Discord">
+  </a>
+  <a href="mailto:MushroomWasp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Email" alt="Email">
+  </a>
+</div>
 
-# who is this person?
+<div align="center">
+  <br>
+  and grep a coffee along the way
+</div>
 
-A security researcher and CTF player, mainly focused on web stuff right now. Used to work as a backend dev before diving into security. Also, a big Linux fan!
-
----
-
-<p align="center">
+<div align="center">
   <a href="https://www.buymeacoffee.com/omarmhasan">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
-</p>
-<p align="center">
-  If you'd like to support my work, buy me a coffee or share this 👉 <a href="https://mushroom.cat/" target="_blank">Ma Blog</a>
-</p>
+</div>
