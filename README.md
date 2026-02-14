@@ -39,6 +39,23 @@
   <i>a big Linux nerd</i>
 </p>
 
+<h2 align="center"> side projects</h2>
+
+<p align="center">
+  small tools, practical experiments, and things I built to solve my own problems.<br>
+  feel free to explore and break them :)
+</p>
+
+<div align="center">
+
+<a href="https://github.com/MushroomWasp/blog">blog</a> •
+<a href="https://github.com/MushroomWasp/iris">iris</a> •
+<a href="https://github.com/MushroomWasp/eo">eo</a> •
+<a href="https://github.com/MushroomWasp/ctf-spawner">ctf-spawner</a> •
+<a href="https://github.com/MushroomWasp/ai-term">ai-term</a>
+
+</div>
+
 <h2 align="center"> Dox me</h2>
 
 <div align="center">
