@@ -52,7 +52,8 @@
 <a href="https://github.com/MushroomWasp/iris">iris</a> •
 <a href="https://github.com/MushroomWasp/eo">eo</a> •
 <a href="https://github.com/MushroomWasp/ctf-spawner">ctf-spawner</a> •
-<a href="https://github.com/MushroomWasp/ai-term">ai-term</a>
+<a href="https://github.com/MushroomWasp/ai-term">ai-term</a> •
+<a href="https://github.com/MushroomWasp/ctf-watch">ctf-watch</a>
 
 </div>
 
