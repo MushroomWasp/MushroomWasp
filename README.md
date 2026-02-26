@@ -77,7 +77,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/omarmhasan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  <a href="https://ko-fi.com/MushroomWasp" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
   </a>
 </div>
