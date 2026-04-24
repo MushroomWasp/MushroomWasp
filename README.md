@@ -1,21 +1,5 @@
 <h2 align="center">
-  <div align="center">
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  </div>
-    こんにちは!
-  <div align="center">
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  <img height="32" alt="Waving Hand" src="https://github.com/user-attachments/assets/72cf8a8b-2626-4bf1-b0a2-ae871dc4a9b3" /> 
-  </div>
+  <img width="1921" height="677" alt="image" src="https://github.com/user-attachments/assets/3481cca8-10d5-41dc-b754-46327294d361" />
   </h2>
 
 <p align="center">
